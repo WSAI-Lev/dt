@@ -1,20 +1,20 @@
 [package]
 name = "dt"
-version = "1.0.6"
+version = "1.1.0"
 authors = ["(Bill) Yuan Liu <yuan6liu@gmail.com>"]
 edition = "2018"
 description = "distance transform"
 license = "MIT"
 documentation = "https://docs.rs/dt/"
-repository = "https://github.com/clearlycloudy/dt/"
+repository = "https://github.com/exbibyte/dt/"
 readme = "README.md"
 
 [dependencies]
-ndarray = "0.15"
-num = "0.3"
+ndarray = "0.17.2"
+num = "0.4"
 
 [dev-dependencies]
-lodepng = "2.6.0"
+lodepng = "3.8"
 rgb = "0.8"
 
 
