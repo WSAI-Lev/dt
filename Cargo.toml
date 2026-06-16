@@ -10,7 +10,7 @@ repository = "https://github.com/exbibyte/dt/"
 readme = "README.md"
 
 [dependencies]
-ndarray = "0.17.2"
+ndarray = "0.16.1"
 num = "0.4"
 
 [dev-dependencies]
